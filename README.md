@@ -1,13 +1,13 @@
 # 👋 Luis Chaparro Mejías
 
 <p align="center">
-  💻 Estudiante SMR | 🐍 Futuro Backend Developer | ☁️ Interesado en Cloud Computing
+  💻 Estudiante SMR | 🐍 Futuro Backend Developer | ☁️ Cloud Enthusiast | 🚀 Python & Git
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Exploring-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Learning-lightgrey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" />
 </p>
 
@@ -17,13 +17,11 @@
 
 Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)** en el IES Cantillana.
 
-Actualmente estoy en formación y realizando prácticas en un entorno real IT en el Ayuntamiento de Alanís, donde estoy adquiriendo experiencia en soporte técnico, sistemas y redes.
+Actualmente realizo prácticas en el Ayuntamiento de Alanís, donde estoy adquiriendo experiencia en entornos reales IT, soporte técnico y sistemas.
 
-Me interesa especialmente el **desarrollo backend**, y estoy enfocando mi aprendizaje en programación y desarrollo de software.
+Estoy enfocado en el **desarrollo backend** y en mi evolución hacia el **cloud computing**, combinando programación, sistemas y redes.
 
-También estoy empezando a explorar el mundo del **Cloud Computing**, con el objetivo de evolucionar hacia arquitecturas modernas en el futuro.
-
-Soy una persona constante, autodidacta y orientada al aprendizaje continuo mediante proyectos.
+Soy una persona constante, autodidacta y con mentalidad de mejora continua, siempre construyendo proyectos para aprender.
 
 ---
 
@@ -40,44 +38,35 @@ Soy una persona constante, autodidacta y orientada al aprendizaje continuo media
 - Linux (Ubuntu / Server)
 - Windows / Windows Server
 
-### 🌐 Otros conocimientos
+### ☁️ Cloud & Sistemas (en aprendizaje)
+- Conceptos básicos de Cloud Computing
+- Administración básica de sistemas
 - Redes informáticas (nivel SMR)
-- Soporte técnico
-- Sistemas operativos
-- Introducción a Cloud Computing ☁️
 
 ---
 
 ## 💻 Proyectos
 
-### 🧮 Calculadora en Python
-Aplicación de consola que realiza operaciones matemáticas básicas.
+### 🧮 Python básico
+Repositorio con ejercicios y prácticas de Python.
 
-✔ Lógica de programación  
-✔ Python básico  
-✔ Entrada de datos por consola  
+🔗 https://github.com/lchaparromejias/python-basico
 
-🔗 GitHub:  
-https://github.com/lchamej1210/mi-primer-proyecto-python.git  
-
----
-
-## ☁️ Interés en Cloud
-
-- Conceptos básicos de infraestructura cloud  
-- Interés en AWS / Azure (en aprendizaje futuro)  
-- Objetivo de evolucionar hacia Backend + Cloud Engineer  
+#### 📌 Incluye:
+- Calculadora básica en Python
+- Ejercicios de lógica de programación
+- Prácticas de consola
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lchamej1210&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lchaparromejias&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchamej1210&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchaparromejias&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -85,10 +74,10 @@ https://github.com/lchamej1210/mi-primer-proyecto-python.git
 ## 🎯 Objetivos
 
 - Convertirme en desarrollador backend  
-- Aprender Java y bases de datos SQL  
+- Aprender Java, SQL y APIs  
+- Especializarme en cloud computing ☁️  
 - Mejorar en Git y desarrollo profesional  
-- Evolucionar hacia Cloud Computing ☁️  
-- Crear proyectos reales y útiles  
+- Crear proyectos reales y escalables  
 
 ---
 
@@ -96,15 +85,16 @@ https://github.com/lchamej1210/mi-primer-proyecto-python.git
 
 - 📚 Estudiando SMR  
 - 🏢 Prácticas en el Ayuntamiento de Alanís  
-- 🧪 Aprendiendo Python y desarrollo web básico  
-- ☁️ Explorando fundamentos de Cloud  
+- 🐍 Aprendiendo Python  
 - 🔧 Mejorando Git y GitHub  
+- ☁️ Iniciándome en cloud computing  
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/lchamej1210  
+- Email: luischaparro.dev@gmail.com  
+- GitHub: https://github.com/lchaparromejias  
 - LinkedIn: www.linkedin.com/in/luis-chaparro-mejias-784448365  
 
 ---
