@@ -48,7 +48,7 @@ Aplicación de consola que realiza operaciones matemáticas básicas.
 ✔ Operaciones básicas (suma, resta, multiplicación, división)
 
 🔗 Repositorio:  
-https://github.com/lchaparromejias/phyton-basico
+Calculadora/BasicCalculator.py
 
 ---
 
