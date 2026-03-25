@@ -48,7 +48,7 @@ Aplicación de consola que realiza operaciones matemáticas básicas.
 ✔ Operaciones básicas (suma, resta, multiplicación, división)
 
 🔗 Repositorio:  
-https://github.com/lchamej1210/mi-primer-proyecto-python.git  
+https://github.com/lchaparromejias/phyton-basico
 
 ---
 
@@ -73,7 +73,7 @@ https://github.com/lchamej1210/mi-primer-proyecto-python.git
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/lchamej1210  
+- GitHub: https://github.com/lchaparromejias
 - LinkedIn: www.linkedin.com/in/luis-chaparro-mejias-784448365  
 
 ---
