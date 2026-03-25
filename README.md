@@ -33,7 +33,7 @@ Me gusta aprender de forma autodidacta y mejorar constantemente mis habilidades 
 Proyecto simple de consola que realiza operaciones matemáticas básicas.
 
 🔗 Repositorio:  
-https://github.com/lchamej1210/mi-primer-proyecto-python.git
+https://github.com/lchamej1210/phyton-basico
 
 ---
 
