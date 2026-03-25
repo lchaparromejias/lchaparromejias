@@ -1,48 +1,73 @@
-# 👋 Hola, soy Luis Chaparro Mejías
+# 👋 Luis Chaparro Mejías
 
-🎓 Estudiante de Sistemas Microinformáticos y Redes (SMR) en el IES Cantillana  
-💻 Futuro Backend Developer  
-🐍 Enfocado en Python, Git y desarrollo de software  
-
----
-
-## 🚀 Sobre mí
-
-Soy un estudiante apasionado por la informática y el desarrollo de software, especialmente en el área de backend.
-
-Actualmente estoy en formación y realizando prácticas en el Ayuntamiento de Alanís, donde estoy adquiriendo experiencia en entornos reales de trabajo IT.
-
-Me gusta aprender de forma autodidacta y mejorar constantemente mis habilidades técnicas, desarrollando pequeños proyectos y ampliando mis conocimientos en programación.
+<p align="center">
+  💻 Estudiante SMR | 🐍 Futuro Backend Developer | 🚀 En constante aprendizaje
+</p>
 
 ---
 
-## 🧠 Tecnologías que estoy aprendiendo
+## 🧠 Sobre mí
 
-- 🐍 Python (básico)
-- 🌐 HTML & CSS
-- 🐧 Linux (Ubuntu / Server)
-- 🪟 Windows / Windows Server
-- 🔧 Git & GitHub (en aprendizaje)
-- 🌍 Redes informáticas (nivel SMR)
+Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)** en el IES Cantillana.
+
+Actualmente me encuentro en formación y realizando prácticas en un entorno real IT, donde estoy desarrollando habilidades técnicas y profesionales dentro del mundo de la informática.
+
+Me interesa especialmente el **desarrollo backend**, y estoy enfocando mi aprendizaje en programación y desarrollo de software.
+
+Soy una persona constante, autodidacta y con ganas de mejorar cada día construyendo proyectos y aprendiendo nuevas tecnologías.
 
 ---
 
-## 💻 Proyectos
+## 🚀 Tecnologías
 
-### 🧮 Calculadora básica en Python
-Proyecto simple de consola que realiza operaciones matemáticas básicas.
+### 🐍 Lenguajes
+- Python (básico)
+- HTML
+- CSS
+
+### 🧰 Herramientas
+- Git
+- GitHub
+- Linux (Ubuntu / Server)
+- Windows / Windows Server
+
+### 🌐 Otros conocimientos
+- Redes informáticas (nivel SMR)
+- Sistemas operativos
+- Soporte técnico básico
+
+---
+
+## 💻 Proyecto destacado
+
+### 🧮 Calculadora en Python
+Aplicación de consola que realiza operaciones matemáticas básicas.
+
+✔ Lógica de programación  
+✔ Entrada de datos por consola  
+✔ Operaciones básicas (suma, resta, multiplicación, división)
 
 🔗 Repositorio:  
-https://github.com/lchaparromejias/phyton-basico
+https://github.com/lchamej1210/mi-primer-proyecto-python.git  
 
 ---
 
 ## 🎯 Objetivos
 
-- Mejorar como desarrollador backend  
+- Especializarme en desarrollo backend  
 - Aprender Java y bases de datos  
-- Especializarme en desarrollo backend y cloud computing  
-- Seguir creando proyectos reales  
+- Mejorar en Git y desarrollo profesional  
+- Evolucionar hacia cloud computing  
+- Construir proyectos reales y útiles  
+
+---
+
+## 📈 Actualmente
+
+- 📚 Estudiando SMR  
+- 🏢 Realizando prácticas en el Ayuntamiento de Alanís  
+- 🧪 Aprendiendo Python y desarrollo web básico  
+- 🔧 Mejorando en Git y GitHub  
 
 ---
 
@@ -53,4 +78,6 @@ https://github.com/lchaparromejias/phyton-basico
 
 ---
 
-⭐ Gracias por visitar mi perfil
+<p align="center">
+⭐ Gracias por visitar mi perfil ⭐  
+</p>
