@@ -1,14 +1,7 @@
 # 👋 Luis Chaparro Mejías
 
 <p align="center">
-  💻 Estudiante SMR | 🐍 Futuro Backend Developer | ☁️ Cloud Enthusiast | 🚀 Python & Git
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Learning-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" />
+💻 Estudiante SMR | 🐍 Aspirante a Backend Developer | ☁️ Futuro Cloud Engineer | 🚀 Python & Git
 </p>
 
 ---
@@ -17,11 +10,11 @@
 
 Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)** en el IES Cantillana.
 
-Actualmente realizo prácticas en el Ayuntamiento de Alanís, donde estoy adquiriendo experiencia en entornos reales IT, soporte técnico y sistemas.
+Actualmente estoy en formación y realizando prácticas en el Ayuntamiento de Alanís, donde estoy adquiriendo experiencia en soporte técnico y sistemas en entornos reales.
 
-Estoy enfocado en el **desarrollo backend** y en mi evolución hacia el **cloud computing**, combinando programación, sistemas y redes.
+Me estoy enfocando en el **desarrollo backend**, construyendo una base sólida en programación, lógica y herramientas como Git y GitHub.
 
-Soy una persona constante, autodidacta y con mentalidad de mejora continua, siempre construyendo proyectos para aprender.
+Mi objetivo es evolucionar hacia el desarrollo backend y posteriormente especializarme en **cloud computing**.
 
 ---
 
@@ -38,46 +31,47 @@ Soy una persona constante, autodidacta y con mentalidad de mejora continua, siem
 - Linux (Ubuntu / Server)
 - Windows / Windows Server
 
-### ☁️ Cloud & Sistemas (en aprendizaje)
-- Conceptos básicos de Cloud Computing
-- Administración básica de sistemas
+### 🌐 Otros conocimientos
 - Redes informáticas (nivel SMR)
+- Sistemas operativos
+- Soporte técnico
 
 ---
 
 ## 💻 Proyectos
 
-### 🧮 Python básico
-Repositorio con ejercicios y prácticas de Python.
+### 🧮 Calculadora básica en Python
+Proyecto de consola que realiza operaciones matemáticas básicas.
 
-🔗 https://github.com/lchaparromejias/python-basico
+✔ Lógica de programación  
+✔ Uso de Python  
+✔ Entrada de datos por consola  
 
-#### 📌 Incluye:
-- Calculadora básica en Python
+🔗 Repositorio:
+https://github.com/lchaparromejias/python-basico
+
+📌 Incluye:
+- Calculadora básica
 - Ejercicios de lógica de programación
-- Prácticas de consola
+- Prácticas de Python
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Formación
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lchaparromejias&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchaparromejias&layout=compact&theme=tokyonight" />
-</p>
+- Curso de Introducción a la Programación con Pseudocódigo – :contentReference[oaicite:0]{index=0}  
+- Certificación Python Developer – SoloLearn  
+- Estudiante SMR (2024 – 2026)
 
 ---
 
 ## 🎯 Objetivos
 
 - Convertirme en desarrollador backend  
-- Aprender Java, SQL y APIs  
+- Aprender Java y bases de datos SQL  
+- Crear APIs y proyectos reales  
 - Especializarme en cloud computing ☁️  
 - Mejorar en Git y desarrollo profesional  
-- Crear proyectos reales y escalables  
 
 ---
 
@@ -99,6 +93,4 @@ Repositorio con ejercicios y prácticas de Python.
 
 ---
 
-<p align="center">
-⭐ Gracias por visitar mi perfil ⭐  
-</p>
+⭐ Gracias por visitar mi perfil
