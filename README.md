@@ -1,7 +1,13 @@
 # 👋 Luis Chaparro Mejías
 
 <p align="center">
-  💻 Estudiante SMR | 🐍 Futuro Backend Developer | 🚀 En constante aprendizaje
+  💻 Estudiante SMR | 🐍 Futuro Backend Developer | 🚀 Python & Git Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Student-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" />
 </p>
 
 ---
@@ -10,11 +16,11 @@
 
 Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)** en el IES Cantillana.
 
-Actualmente me encuentro en formación y realizando prácticas en un entorno real IT, donde estoy desarrollando habilidades técnicas y profesionales dentro del mundo de la informática.
+Actualmente estoy en formación y realizando prácticas en un entorno real IT en el Ayuntamiento de Alanís, donde estoy desarrollando experiencia profesional en soporte técnico y sistemas.
 
-Me interesa especialmente el **desarrollo backend**, y estoy enfocando mi aprendizaje en programación y desarrollo de software.
+Me apasiona el **desarrollo backend**, y estoy centrando mi aprendizaje en programación, lógica y desarrollo de software.
 
-Soy una persona constante, autodidacta y con ganas de mejorar cada día construyendo proyectos y aprendiendo nuevas tecnologías.
+Soy una persona constante, autodidacta y enfocada en mejorar cada día a través de proyectos reales.
 
 ---
 
@@ -33,47 +39,60 @@ Soy una persona constante, autodidacta y con ganas de mejorar cada día construy
 
 ### 🌐 Otros conocimientos
 - Redes informáticas (nivel SMR)
+- Soporte técnico
 - Sistemas operativos
-- Soporte técnico básico
 
 ---
 
-## 💻 Proyecto destacado
+## 💻 Proyectos
 
 ### 🧮 Calculadora en Python
 Aplicación de consola que realiza operaciones matemáticas básicas.
 
 ✔ Lógica de programación  
+✔ Uso de Python  
 ✔ Entrada de datos por consola  
-✔ Operaciones básicas (suma, resta, multiplicación, división)
+✔ Operaciones matemáticas básicas  
 
-🔗 Repositorio:  
-Calculadora/BasicCalculator.py
+🔗 GitHub:  
+https://github.com/lchamej1210/mi-primer-proyecto-python.git  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lchamej1210&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lchamej1210&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Objetivos
 
-- Especializarme en desarrollo backend  
-- Aprender Java y bases de datos  
+- Convertirme en desarrollador backend  
+- Aprender Java y bases de datos SQL  
 - Mejorar en Git y desarrollo profesional  
 - Evolucionar hacia cloud computing  
-- Construir proyectos reales y útiles  
+- Crear proyectos reales y útiles  
 
 ---
 
 ## 📈 Actualmente
 
 - 📚 Estudiando SMR  
-- 🏢 Realizando prácticas en el Ayuntamiento de Alanís  
-- 🧪 Aprendiendo Python y desarrollo web básico  
-- 🔧 Mejorando en Git y GitHub  
+- 🏢 Prácticas en el Ayuntamiento de Alanís  
+- 🧪 Aprendiendo Python y desarrollo web  
+- 🔧 Mejorando Git y GitHub  
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/lchaparromejias
+- GitHub: https://github.com/lchamej1210  
 - LinkedIn: www.linkedin.com/in/luis-chaparro-mejias-784448365  
 
 ---
