@@ -1,20 +1,20 @@
 # 👋 Luis Chaparro Mejías
 
 <p align="center">
-💻 Estudiante SMR | 🐍 Aspirante a Backend Developer | ☁️ Futuro Cloud Engineer | 🚀 Python & Git
+💻 Backend Developer en formación | 🐍 Python | ☁️ Cloud (futuro) | 🚀 Git & Linux
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)** en el IES Cantillana.
+Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)**.
 
-Actualmente estoy en formación y realizando prácticas en el Ayuntamiento de Alanís, donde estoy adquiriendo experiencia en soporte técnico y sistemas en entornos reales.
+Actualmente estoy realizando prácticas en el Ayuntamiento de Alanís, donde trabajo con soporte técnico y sistemas en entornos reales.
 
-Me estoy enfocando en el **desarrollo backend**, construyendo una base sólida en programación, lógica y herramientas como Git y GitHub.
+Me estoy especializando en **desarrollo backend con Python**, mientras construyo una base sólida en programación, redes y sistemas.
 
-Mi objetivo es evolucionar hacia el desarrollo backend y posteriormente especializarme en **cloud computing**.
+🎯 Mi objetivo es convertirme en desarrollador backend y evolucionar hacia el **cloud computing**.
 
 ---
 
@@ -31,47 +31,62 @@ Mi objetivo es evolucionar hacia el desarrollo backend y posteriormente especial
 - Linux (Ubuntu / Server)
 - Windows / Windows Server
 
-### 🌐 Otros conocimientos
-- Redes informáticas (nivel SMR)
+### 🌐 Conocimientos
+- Redes (nivel SMR)
 - Sistemas operativos
 - Soporte técnico
 
 ---
 
+## 🛣️ Roadmap
+
+✔ Python básico  
+🔄 Python intermedio  
+🔜 SQL y bases de datos  
+🔜 APIs REST  
+🔜 Cloud (AWS / Azure)  
+
+---
+
 ## 💻 Proyectos
 
-### 🧮 Calculadora básica en Python
-Proyecto de consola que realiza operaciones matemáticas básicas.
+### 🧮 Calculadora en Python (CLI)
 
-✔ Lógica de programación  
-✔ Uso de Python  
-✔ Entrada de datos por consola  
+Proyecto de consola que permite realizar operaciones matemáticas básicas.
+
+🔧 Funcionalidades:
+- Suma, resta, multiplicación y división
+- Entrada de datos por consola
+- Estructura básica de programa
+
+📚 Tecnologías:
+- Python
+
+🚀 Próximas mejoras:
+- Validación de errores
+- Menú interactivo
+- Historial de operaciones
 
 🔗 Repositorio:
 https://github.com/lchaparromejias/python-basico
-
-📌 Incluye:
-- Calculadora básica
-- Ejercicios de lógica de programación
-- Prácticas de Python
 
 ---
 
 ## 📚 Formación
 
-- Curso de Introducción a la Programación con Pseudocódigo – :contentReference[oaicite:0]{index=0}  
-- Certificación Python Developer – SoloLearn  
-- Estudiante SMR (2024 – 2026)
+- Estudiante de SMR (2024 – 2026)
+- Curso de Introducción a la Programación (pseudocódigo)
+- Certificación Python Developer – SoloLearn
 
 ---
 
 ## 🎯 Objetivos
 
-- Convertirme en desarrollador backend  
-- Aprender Java y bases de datos SQL  
-- Crear APIs y proyectos reales  
-- Especializarme en cloud computing ☁️  
+- Desarrollar aplicaciones backend con Python  
+- Aprender bases de datos SQL  
+- Crear APIs REST  
 - Mejorar en Git y desarrollo profesional  
+- Especializarme en cloud computing ☁️  
 
 ---
 
@@ -81,7 +96,7 @@ https://github.com/lchaparromejias/python-basico
 - 🏢 Prácticas en el Ayuntamiento de Alanís  
 - 🐍 Aprendiendo Python  
 - 🔧 Mejorando Git y GitHub  
-- ☁️ Iniciándome en cloud computing  
+- ☁️ Introducción al cloud  
 
 ---
 
@@ -89,7 +104,7 @@ https://github.com/lchaparromejias/python-basico
 
 - Email: luischaparro.dev@gmail.com  
 - GitHub: https://github.com/lchaparromejias  
-- LinkedIn: www.linkedin.com/in/luis-chaparro-mejias-784448365  
+- LinkedIn: https://www.linkedin.com/in/luis-chaparro-mejias-784448365  
 
 ---
 
