@@ -1,111 +1,82 @@
-# 👋 Luis Chaparro Mejías
+# 👋 Hola, soy Luis Chaparro Mejías
 
 <p align="center">
-💻 Backend Developer en formación | 🐍 Python | ☁️ Cloud (futuro) | 🚀 Git & Linux
+💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) | 🐍 Python & Java | 🚀 Git & Linux
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy estudiante de **Sistemas Microinformáticos y Redes (SMR)**.
+Soy estudiante de primer curso del **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, con formación previa en **Sistemas Microinformáticos y Redes (SMR)**.
 
-Actualmente estoy realizando prácticas en el Ayuntamiento de Alanís, donde trabajo con soporte técnico y sistemas en entornos reales.
+Aporto experiencia real en soporte informático e infraestructura gracias a mis prácticas en el Ayuntamiento de Alanís, y actualmente estoy enfocado en dar el salto profesional al desarrollo de software.
 
-Me estoy especializando en **desarrollo backend con Python**, mientras construyo una base sólida en programación, redes y sistemas.
+Cuento con bases prácticas en **Python, HTML y CSS**, y me encuentro ampliando mi stack tecnológico con **Java y SQL**. 
 
-🎯 Mi objetivo es convertirme en desarrollador backend y evolucionar hacia el **cloud computing**.
-
----
-
-## 🚀 Tecnologías
-
-### 🐍 Lenguajes
-- Python (básico)
-- HTML
-- CSS
-
-### 🧰 Herramientas
-- Git
-- GitHub
-- Linux (Ubuntu / Server)
-- Windows / Windows Server
-
-### 🌐 Conocimientos
-- Redes (nivel SMR)
-- Sistemas operativos
-- Soporte técnico
+🎯 Mi objetivo es formarme como desarrollador backend, crear aplicaciones eficientes y, en un futuro, especializarme en **cloud computing**.
 
 ---
 
-## 🛣️ Roadmap
+## 🚀 Tecnologías y Herramientas
 
-✔ Python básico  
-🔄 Python intermedio  
-🔜 SQL y bases de datos  
-🔜 APIs REST  
-🔜 Cloud (AWS / Azure)  
+### 💻 Lenguajes y Desarrollo Web
+- Python (Básico-Intermedio)
+- HTML5 & CSS3
+- Java *(En aprendizaje)*
+- SQL *(En aprendizaje)*
 
----
+### 🧰 Entornos, Herramientas y BD
+- Git & GitHub
+- MariaDB
+- VS Code, IntelliJ IDEA, PyCharm
+- Draw.io & PSeInt (Modelado y algoritmos)
 
-## 💻 Proyectos
-
-### 🧮 Calculadora en Python (CLI)
-
-Proyecto de consola que permite realizar operaciones matemáticas básicas.
-
-🔧 Funcionalidades:
-- Suma, resta, multiplicación y división
-- Entrada de datos por consola
-- Estructura básica de programa
-
-📚 Tecnologías:
-- Python
-
-🚀 Próximas mejoras:
-- Validación de errores
-- Menú interactivo
-- Historial de operaciones
-
-🔗 Repositorio:
-https://github.com/lchaparromejias/python-basico
+### 🌐 Sistemas e Infraestructura
+- Linux (Ubuntu / Server) & Windows
+- Soporte técnico y redes (Nivel SMR)
 
 ---
 
-## 📚 Formación
+## 💻 Proyectos Destacados
 
-- Estudiante de SMR (2024 – 2026)
-- Curso de Introducción a la Programación (pseudocódigo)
-- Certificación Python Developer – SoloLearn
+### 🐍 Aplicaciones de Consola (Python)
+Repositorio con proyectos enfocados en la lógica de programación, resolución de problemas y estructuras de datos:
+- **Calculadora CLI:** Operaciones matemáticas con entrada de datos por consola.
+- **Juegos Lógicos:** Implementación de "Adivinar número" y "Piedra, papel o tijera".
+🔗 [Ver repositorio](https://github.com/lchaparromejias/python-basico) 
 
----
+### 🌐 Maquetación Web
+Creación de interfaces web sencillas con **HTML y CSS**, cuidando la semántica del código, la navegación y la organización visual.
 
-## 🎯 Objetivos
-
-- Desarrollar aplicaciones backend con Python  
-- Aprender bases de datos SQL  
-- Crear APIs REST  
-- Mejorar en Git y desarrollo profesional  
-- Especializarme en cloud computing ☁️  
+### 🗄️ Modelado de Datos y Algoritmos
+Diseño de diagramas de flujo con PSeInt y elaboración de primeros modelos de bases de datos relacionales con Draw.io.
 
 ---
 
-## 📈 Actualmente
+## 📚 Formación y Certificaciones
 
-- 📚 Estudiando SMR  
-- 🏢 Prácticas en el Ayuntamiento de Alanís  
-- 🐍 Aprendiendo Python  
-- 🔧 Mejorando Git y GitHub  
-- ☁️ Introducción al cloud  
+- **Grado Superior en DAM** | SAFA (2026 – Previsión 2028)
+- **Grado Medio en SMR** | IES Cantillana (2024 – 2026 | Finalizado)
+- **Python Developer** | SoloLearn
+- **Coding Foundations** | SoloLearn
+- **Introducción a la Programación** | OpenWebinars
+
+---
+
+## 📈 Actualmente estoy...
+
+- 📚 Cursando mi primer año de DAM.
+- ☕ Aprendiendo programación orientada a objetos con Java y bases de datos relacionales.
+- 🔧 Mejorando mis buenas prácticas en Git, GitHub y desarrollo limpio.
 
 ---
 
 ## 📫 Contacto
 
-- Email: luischaparro.dev@gmail.com  
-- GitHub: https://github.com/lchaparromejias  
-- LinkedIn: https://www.linkedin.com/in/luis-chaparro-mejias-784448365  
+- 📧 **Email:** luischaparro.dev@gmail.com
+- 💼 **LinkedIn:** [Luis Chaparro Mejías](https://www.linkedin.com/in/luis-chaparro-mejias-784448365)
+- 🐙 **GitHub:** [github.com/lchaparromejias](https://github.com/lchaparromejias)
 
 ---
-
 ⭐ Gracias por visitar mi perfil
